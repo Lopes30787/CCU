@@ -1,6 +1,6 @@
 <h2>Personas</h2>
 
-Persona 1 (Wants to go abroad, but hasn't done so)
+<h3>Monica (Wants to go abroad, but hasn't done so)</h3>
 
 ![](/Personas/Monica.png)
 
@@ -12,14 +12,14 @@ Monica is currently saving up to Interrail, however it is difficult to know the 
 
 Monica would like to have a functionality that would allow her to sum up the average expenses of each city throughout the Interrail, to have a concrete goal to which to save up.
 
-Persona 2 (Doesn´t want to go abroad)
+<h3>Renato (Doesn´t want to go abroad)</h3>
 
 ![](/Personas/Renato.png)
 
 Renato, Age 19, Medical Student, lives alone. Receives allowance from his parents every month. Doesn’t have any current saving goal. Renato would like an app to help him on his monthly spending, mainly on groceries and nightlife. Isn’t interested in going abroad because he doesn’t like to be far from family.
 
 
-Persona 3 (Has gone abroad)
+<h3>Lars (Has gone abroad)</h3>
 
 ![](/Personas/Lars.png)
 
