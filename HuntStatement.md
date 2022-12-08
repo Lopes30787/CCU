@@ -1,4 +1,4 @@
-**Target group:** Students      
+**Target group:** Students 18+
 
 **Topics:** budget management, moving countries, savings planner
 
