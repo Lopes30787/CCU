@@ -2,7 +2,7 @@
 
 <h3>Monica (Wants to go abroad, but hasn't done so)</h3>
 
-![](/Personas/Monica.png)
+![](/Personas/Monica.jpg)
 
 Monica, Age 21, Architecture student, lives in a shared student house. 
 
@@ -14,14 +14,14 @@ Monica would like to have a functionality that would allow her to sum up the ave
 
 <h3>Renato (Doesn´t want to go abroad)</h3>
 
-![](/Personas/Renato.png)
+![](/Personas/Renato.jpg)
 
 Renato, Age 19, Medical Student, lives alone. Receives allowance from his parents every month. Doesn’t have any current saving goal. Renato would like an app to help him on his monthly spending, mainly on groceries and nightlife. Isn’t interested in going abroad because he doesn’t like to be far from family.
 
 
 <h3>Lars (Has gone abroad)</h3>
 
-![](/Personas/Lars.png)
+![](/Personas/Lars.jpg)
 
 Lars, Age 23, Business Student, lives with family and receives allowance from his parents. 
 
