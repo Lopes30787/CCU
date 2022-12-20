@@ -1,0 +1,8 @@
+- Foste à telepizza, gastaste 7€, adiciona esse gasto na tua aplicação.
+- Verifica quanto dinheiro ainda podes gastar em comida esta semana.
+- Dos ultimos 4 meses em qual gastaste mais dinheiro? 
+- No mês em que gastaste mais, qual foi a categoria mais dispendiosa?
+- Verifica os teus gastos em entretenimento desde o inicio das aulas (18/09/2022).
+- Cria uma nova categoria para gastos em churrascos.
+- Estás a pensar fazer um interrail. Neste interrail, vai passar 2 dias em Paris 3 2 dias em Oslo. Os únicos gastos que vais ter vão ser comida e deslocação. Cria um plano de poupança na nossa aplicação. 
+- Adiciona 50€ a esta tua nova aventura!!! 
