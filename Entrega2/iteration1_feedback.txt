@@ -1,0 +1,90 @@
+-----------
+Task 1
+-----------
+Task: 
+You went to telepizza to have lunch and spent 7€. Add this expense in your application
+ 
+Feedback: 
+one user went to the Expenses tab first
+
+Changes made: 
+we made the homescreen button to add an expense more obvious
+we also changed the tab name from "expenses" to "history" since this name makes more sense
+
+-----------
+Task 2
+-----------
+Task: 
+Check how much money can you still spend on food this week.
+
+Feedback: 
+users tried to click on the "available" rectangle in the homescreen
+users mistook spent money with available money on the "Limits" screen
+
+Changes made: 
+"available" rectangle in the homescreen now redirects to the "Limits" screen
+added word "spent" before the value presented in the "Limits" screen
+
+-----------
+Task 3
+-----------
+Task: 
+In the last 4 months, in which one did you spent the most money?
+
+Feedback: 
+one user tried to filter the expenses in the "Expenses" screen instead of using the "Statistics" screen
+
+Changes made: 
+we concluded this error wasn't relevant since you can also obtain the correct answer using this method
+
+-----------
+Task 4
+-----------
+Task: 
+Which was the most costly category that month?
+
+Feedback: 
+users had no problems completing this taks
+
+-----------
+Task 5
+-----------
+Task:
+Check your expenses in entertainment since the first day of classes (18/09/2022).
+
+Feedback: 
+users tried to use the "Statistics" and "Categories" screens
+
+Changes made:
+if you click in a category in the categories menu, now it redirects you to a filtered expense history
+we concluded that the user's errors stemmed from the way the question was formulated
+
+-----------
+Task 6
+-----------
+Task: 
+Create a new category for expenses in nightlife
+
+Feedback: 
+users had no problems completing this taks
+
+-----------
+Task 7
+-----------
+Task:  
+You're thinking of going on an interrail. You will spend 2 days in Paris and 2 days in Oslo. Your only expenses will be food and transportation. Create a savings plan in your application
+
+Feedback: 
+users had no problems completing this taks, but they did mention that it was a bit confusing at first
+
+-----------
+Task 8
+-----------
+Task:  
+add 50€ to this new adventure!
+
+Feedback: 
+users tried to add money throught the mensality option in the "My Trips" screen
+
+Changes made:
+we changed the design of this screen a bit and changed the mensality to a drop down menu with a toggle button
